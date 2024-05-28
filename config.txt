@@ -1,0 +1,10 @@
+#processes
+# name, Arrival time , temp needed , priority
+p1,0,6,2
+p2,1,4,3
+p3,2,5,3
+p4,4,2,1
+p5,5,4,1
+p6,6,5,2
+p7,12,5,4
+p8,13,2,4
